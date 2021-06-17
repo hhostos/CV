@@ -1,0 +1,36 @@
+body {
+    background-color: white
+}
+img.centrar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2 {
+    color:#005677;
+    background-color: #c4c4c4;
+    letter-spacing: 4px;
+}
+
+h2 {
+    margin-right: 10%
+}
+
+footer {
+    background-color: #005677;
+    color: white;
+    font-weight: bold
+}
+
+li {
+    margin-left: 5%;
+}
+
+
+.Tit{
+    font-weight: bold;
+}
+.Corrido{
+    margin-left: 80px;
+}
